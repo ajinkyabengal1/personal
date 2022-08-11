@@ -1,0 +1,38 @@
+[
+    {
+    "id": 1,
+    "title": "Websites Development",
+    "image": "https://images.pexels.com/photos/4126724/pexels-photo-4126724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Get a pixel-perfect website for all sizes of businesses. The perfect web solution is here. Professional and Custom Website Development for businesses - Make your business digital."
+    },
+    {
+    "id": 2,
+    "title": "App Development",
+    "image": "https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Expand My Business Offers Best Quality iOS App, Android App & Web App Development Service. India's No1 App development company help you to Boost Your Business with us."
+    },
+    {
+    "id": 3,
+    "title": "Software Development",
+    "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Bengal It solutions is a full-service software development company of engineers, designers, and developers."
+    },
+    {
+    "id": 4,
+    "title": "Digital Marketing",
+    "image": "https://images.pexels.com/photos/6476808/pexels-photo-6476808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "We are a digital marketing agency in Aurangabad that is privately owned & creatively driven. We believe we're an organization with ideas for a digital future."
+    },
+    {
+    "id": 5,
+    "title": "Graphic Designer",
+    "image": "https://images.pexels.com/photos/414974/pexels-photo-414974.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "We provide graphic design solutions in the form of engaging creative designs: Logo Design; Typography; Logo Cleanup; Infographics; Web banners designs; Business..."
+    },
+    {
+    "id": 6,
+    "title": "Hire Freelancer",
+    "image": "https://images.pexels.com/photos/3153203/pexels-photo-3153203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "I am a graduate on Software Engineering and had many certificates related the course-work of web developing. I have intense capability in business related work."
+    }
+    ]
